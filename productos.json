@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Botines",
+        "marca": "Nike",
+        "precio": 300,
+        "stock": 500
+    },
+    {
+        "id": 2,
+        "nombre": "Jersey",
+        "marca": "Adidas",
+        "precio": 100,
+        "stock": 250
+    },
+    {
+        "id": 3,
+        "nombre": "Shorts",
+        "marca": "Puma",
+        "precio": 40,
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "nombre": "Calcetas",
+        "marca": "Adidas",
+        "precio": 250,
+        "stock": 200
+    },
+    {
+        "id": 5,
+        "nombre": "Espinilleras",
+        "marca": "Marca Payaso",
+        "precio": 15,
+        "stock": 50
+    }
+]
